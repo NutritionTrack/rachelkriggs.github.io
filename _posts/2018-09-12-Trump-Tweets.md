@@ -2,6 +2,8 @@
 layout: post
 title: MDS Communications - Trump tweets during the 2016 campaign
 ---
+Author: Rachel Riggs 
+- Date: Sep 12 2018
 
 My thoughts on the first lab assignment in MDS Communication and Argumentation.
 
